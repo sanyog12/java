@@ -1,0 +1,19 @@
+import java.util.*;
+
+public class Main{
+    
+    public static double printcirfur(int r){
+
+        return 2 * (3.14 * r);
+    }
+        
+    public static void main(String [] args){
+        
+        Scanner su = new Scanner(System.in);
+        
+        int r = su.nextInt();
+        
+        System.out.println(printcirfur(r));
+        
+    }
+}
