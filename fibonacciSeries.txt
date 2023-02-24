@@ -1,0 +1,41 @@
+import java.util.*;
+
+public class Main{
+    
+    public static void fib(int x){
+        
+        int x1 = 0;
+        
+        int x2 = 1;
+        
+        int fib = 0;
+        
+        System.out.print(x1+", "+x2+", ");
+        
+        for(int i = 2; i < x; i++ ){
+            
+            fib = x1 + x2;
+            
+            x1 = x2;
+            
+            x2 = fib;
+            
+            System.out.print(fib + ", ");
+            
+            }
+            
+        return;
+        
+    }
+        
+    public static void main(String [] args){
+        
+        Scanner su = new Scanner(System.in);
+        
+        int x = su.nextInt();
+        
+        fib(x);
+        
+    }
+    
+}
