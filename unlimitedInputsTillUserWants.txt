@@ -1,0 +1,49 @@
+import java.util.*;
+
+public class Main{
+    
+        
+    public static void main(String [] args){
+        
+        Scanner su = new Scanner(System.in);
+        
+        int positive = 0, negative = 0, zero = 0;
+        
+        while(true){
+            
+            int x = su.nextInt();
+            
+            if(x == -1){
+                
+                break;
+                
+            }
+            
+            if(x > 0){
+                
+                positive++;
+                
+            }
+            
+            else if(x < 0){
+                
+                negative++;
+                
+            }
+            
+            else{
+                
+                zero++;
+                
+            }
+            
+        }
+        
+        System.out.println(positive);
+        
+        System.out.println(negative);
+        
+        System.out.println(zero);
+        
+    }
+}
