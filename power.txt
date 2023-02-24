@@ -1,0 +1,29 @@
+import java.util.*;
+
+public class Main{
+    
+    public static double power(int a, int b){
+        
+        int pow = 1;
+        
+        for(int i = 1; i <= b; i++ ){
+            
+            pow = pow * a;
+            
+        }
+        return pow;
+    }
+        
+    public static void main(String [] args){
+        
+        Scanner su = new Scanner(System.in);
+        
+        int a = su.nextInt();
+        
+        int b = su.nextInt();
+        
+        System.out.println(power(a,b));
+        
+    }
+    
+}
