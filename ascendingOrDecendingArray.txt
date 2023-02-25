@@ -1,0 +1,44 @@
+
+import java.util.*;
+
+public class Main
+
+{
+    
+	public static void main(String[] args) {
+	    
+		Scanner su = new Scanner(System.in);
+		
+		int size = su.nextInt();
+		
+		int number[] = new int[size]; 
+		
+	    for(int i = 0; i < size; i++){
+	        
+	        number[i] = su.nextInt();
+	        
+	    }
+	    
+	    int flag = 1;
+	    
+	    for(int i = 0; i < size - 1; i++){
+	        
+	        if(number[i] < number[i+1]){
+	            
+	        }
+	        else{
+	            flag = 0;
+	        }
+	        
+	    }
+	    if(flag == 1){
+	        System.out.println("Ascending");
+	    }
+	    else{
+	        System.out.println("Not Ascending");
+	    }
+	    
+	    
+	}
+	
+}
