@@ -1,0 +1,84 @@
+/******************************************************************************
+
+                            Online Java Compiler.
+                Code, Compile, Run and Debug java program online.
+Write your code in this editor and press "Run" button to execute it.
+
+*******************************************************************************/
+import java.util.*;
+
+public class Main{
+    
+	public static void main(String[] args){
+	    
+	    Scanner su = new Scanner(System.in);
+	    
+	    int row = su.nextInt();
+	    
+	    int column = su.nextInt();
+	    
+	    int [][]number = new int[row][column];
+	    
+	    for(int i = 0; i < row; i++){
+	        
+	        for(int j = 0; j < column; j++){
+	            
+	            number[i][j] = su.nextInt(); 
+	            
+	        }
+	        
+	    }
+	    
+	    //output
+	    int rowStart = 0;
+	    
+	    int rowEnd = row -1;
+	    
+	    int columnStart = 0;
+	    
+	    int columnEnd = column -1;
+	    
+	    
+	    while(rowStart <= rowEnd && columnStart <= columnEnd){
+	        //for starting row
+	        
+	        for(int j = columnStart; j <= columnEnd; j++ ){
+	            
+	            System.out.print(number[rowStart][j]+" ");
+	            
+	        }
+	        
+	        rowStart++;
+	        
+	        //for ending column
+	        for(int i = rowStart; i <= rowEnd; i++){
+	            
+	            System.out.print(number[i][columnEnd]+" ");
+	            
+	        }
+	        
+	        columnEnd--;
+	        
+	        //for ending row
+	        for(int j = columnEnd; j >= columnStart; j--){
+	            
+	            System.out.print(number[rowEnd][j]+ " ");
+	            
+	        }
+	        
+	        rowEnd--;
+	        
+	        //for starting column
+	        for(int i = rowEnd; i >= rowStart; i--){
+	            
+	            System.out.print(number[i][columnStart]+" ");
+	            
+	        }
+	        
+	        columnStart++;
+	        
+	    }
+	    
+	}
+	
+}
