@@ -1,0 +1,20 @@
+
+import java.util.*;
+
+public class Main{
+    
+	public static void main(String[] args) {
+	    
+		Scanner su = new Scanner(System.in);
+		
+		String name = su.nextLine();
+		
+		String surname = su.nextLine();
+		
+		String fullName = name + surname;
+		
+	    System.out.print(fullName.substring(1,5));
+		
+	}
+	
+}
