@@ -1,0 +1,30 @@
+
+import java.util.*;
+
+public class Main{
+    
+	public static void main(String[] args) {
+	    
+	StringBuilder su = new StringBuilder("hello");
+	
+	for(int i = 0; i < su.length()/2; i++){
+	    
+	    int front = i;
+	    
+	    int back = su.length() - 1 - i;
+	    
+	    char frontChar = su.charAt(front);
+	    
+	    char backChar = su.charAt(back);
+	    
+	    su.setCharAt(front, backChar);
+	    
+	    su.setCharAt(back, frontChar);
+	    
+	}
+	
+	System.out.println(su);
+	
+	}
+	
+}
