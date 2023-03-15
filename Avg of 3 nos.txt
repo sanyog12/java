@@ -22,6 +22,8 @@ public class Main{
         int c = su.nextInt();
         
         System.out.println(printAvg(a,b,c));
-        
+     
+     
     }
+    
 }
