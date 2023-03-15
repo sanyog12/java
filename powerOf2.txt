@@ -2,7 +2,7 @@ https://leetcode.com/problems/power-of-two/description/
 
 import java.util.*;
 class Solution {
-    public int pow(int x, int n){
+    public int pow(int x, int n){    //Solution to power is O(logn) 
         int output = 1;
         while(n>0){
             if(n%2 == 0){
