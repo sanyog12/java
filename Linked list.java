@@ -2,8 +2,11 @@
 import java.util.*;
 
 class LL{
+    
     Node head;
+    
     class Node{
+        
         String data;
         Node next;
 
