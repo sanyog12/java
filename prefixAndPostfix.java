@@ -14,6 +14,11 @@ public class Main
         System.out.println(++a);
         //prefix--
         System.out.println(--a);
+        //boolean
+        boolean b = true;
+        System.out.println(!b);
+        //negation
+        System.out.println(~a);
 
     }
 }
