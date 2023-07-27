@@ -1,0 +1,33 @@
+https://www.codingninjas.com/studio/problems/nth-fibonacci-number_74156?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTab=0
+
+
+
+import java.util.*;
+public class Solution {
+
+
+	public static void main(String[] args) {
+		
+		/* Your class should be named Solution.
+	 	* Read input as specified in the question.
+	 	* Print output as specified in the question.
+		*/
+		Scanner sc = new Scanner(System.in);
+		int number = sc.nextInt();
+		int fibonacci  = 0;
+		int first = 1; 
+		int second = 1;
+		if(number == 1 || number == 2){
+			fibonacci = 1;
+		}
+		else{
+		for(int i = 3; i <= number; i++){
+			fibonacci = first + second;
+			first = second;
+			second = fibonacci;
+		}}
+		System.out.print(fibonacci);
+		
+	}
+
+}
