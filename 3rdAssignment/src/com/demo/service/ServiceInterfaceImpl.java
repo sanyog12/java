@@ -1,15 +1,20 @@
 package com.demo.service;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.*;
-import java.util.Scanner;
 
-import com.demo.beans.Employee;
+import com.demo.beans.*;
 import com.demo.dao.EmployeeDao;
+import com.demo.dao.EmployeeDaoImpl;
 
 public  class ServiceInterfaceImpl implements ServiceInterface {
-	private EmployeeDao  edao = new EmployeeDaoImpl() {
-		
+	
+	private EmployeeDao  edao ;
+	public void EmployeeDao() {
+	edao = new EmployeeDaoImpl();
 	}
+
 	@Override
 	public void addNewEmployee(int ch) {
 		// TODO Auto-generated method stub
@@ -28,14 +33,20 @@ public  class ServiceInterfaceImpl implements ServiceInterface {
 		System.out.println("enter the designaion");
 		String designation = sc.next();
 		System.out.println("enter the date of joining yyyy-MM-dd");
+		SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
+		Date joiningDate = null;
 		String date = sc.next();
+		joiningDate = null;
+		sc.nextLine();
 		Employee e = null;
 		switch(ch) {
 		case 1:
 			System.out.println("enter the basic salary");
 			double salary = sc.nextInt();
 			sc.nextLine();
-			e = new SalariedEmployee(id);
+			/*int id, String name, String mobno, String emailId, String department, String designation,
+			Date doj,double basicSalary*/
+			e = new SalariedEmp(id,name,mobno,email,department,designation,joiningDate,2333);
 			break;
 			
 		case 2:
