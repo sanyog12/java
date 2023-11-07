@@ -11,7 +11,7 @@ import com.demo.dao.EmployeeDaoImpl;
 public  class ServiceInterfaceImpl implements ServiceInterface {
 	
 	private EmployeeDao  edao ;
-	public void EmployeeDao() {
+	public  ServiceInterfaceImpl() {
 	edao = new EmployeeDaoImpl();
 	}
 
@@ -50,21 +50,61 @@ public  class ServiceInterfaceImpl implements ServiceInterface {
 			break;
 			
 		case 2:
-			System.out.println("enter the name");
+			/*contract
+			   private int noOfHrs;
+ 			   private int ratePerHr;
+			  */
+			System.out.println("enter the number of hrs");
+			int noOfHrs = sc.nextInt();
+			System.out.println("enter the rate per hour");
+			int ratePerHr = sc.nextInt();
+			e = new ContractEmp(id,name,mobno,email,department,designation,joiningDate,noOfHrs,ratePerHr);
+
 			break;
 		case 3:
-			System.out.println("enter the name");
+			/*vendor
+			 private int noOfEmp;
+			 private double amount;
+			 */
+			System.out.println("enter the number of employee");
+			int noOfEmp = sc.nextInt();
+			System.out.println("enter the amount");
+			double amount = sc.nextInt();
+			e = new Vendors(id,name,mobno,email,department,designation,joiningDate,noOfEmp,amount);
+
 			break;
 		}
+		edao.save(e);
 	}
 	
 	@Override
 	public void display() {
 		// TODO Auto-generated method stub
+		edao.displayAll();
 		
 	}
 
 
+
+	@Override
+	public Employee searchById(int id) {
+		return edao.getById(id);
+		// TODO Auto-generated method stub
+				
+	}
+
+	@Override
+	public void salOfParticularDesg(String name) {
+		// TODO Auto-generated method stub
+		edao.salOfParticularDesgs(name);
+		
+	}
+
+	@Override
+	public void display5Emp() {
+		// TODO Auto-generated method stub
+		
+	}
 
 	@Override
 	public void searchById() {
@@ -73,14 +113,9 @@ public  class ServiceInterfaceImpl implements ServiceInterface {
 	}
 
 	@Override
-	public void salOfParticularDesg() {
+	public void searchByName(String name1) {
 		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public void display5Emp() {
-		// TODO Auto-generated method stub
+		edao.searchByNames(name1);
 		
 	}
 	
