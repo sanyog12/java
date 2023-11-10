@@ -4,18 +4,25 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.*;
 import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
+
 import com.demo.beans.*;
 
 public class daoInterfaceImpl implements daoInterface {
 
-	static Map<Student, List<String>> map;
-	List<String> skills = new ArrayList<>();
+	static Map<Student, Set<String>> map;
+	Set<String> skills = new HashSet<>();
+	
 	// sid,name,bdate,degree, marks
 	static {
 		map = new HashMap<>();
 
-		map.put((new Student(1, "sudh", new Date(), "Engg", 12)), Arrays.asList("1", "12"));
-		map.put(new Student(1, "ani", new Date(), "Engg", 12), Arrays.asList("1", "12", "bunny"));
+		  map.put(new Student(1, "sudh", LocalDate.of(2000,12,12), "Engg", 12), new HashSet<>(Arrays.asList("1", "12")));
+		  map.put(new Student(3, "sudh", LocalDate.of(2000,12,12), "Engg", 12), new HashSet<>(Arrays.asList("1", "12")));
+		  map.put(new Student(5, "sudh", LocalDate.of(2000,12,12), "Engg", 12), new HashSet<>(Arrays.asList("1", "12")));
+		  map.put(new Student(1, "sudh", LocalDate.of(2000,12,12), "Engg", 12), new HashSet<>(Arrays.asList("1", "12")));
+		  map.put(new Student(2, "ani", LocalDate.of(2000,12,12),"Engg", 12), new HashSet<>(Arrays.asList("1", "12", "bunny")));
+
 	}
 
 	@Override
@@ -27,15 +34,18 @@ public class daoInterfaceImpl implements daoInterface {
 		System.out.println("enter the name");
 		sc.nextLine();
 		String name = sc.nextLine();
-		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
-		System.out.println("enter the date in \"yyyy-MM-dd\"");
+		
+		
+		
+		System.out.println("enter the date in \"yyyy/MM/dd\"");
 		String date = sc.next();
-		Date newDate = null;
-		try {
-			newDate = sdf.parse(date);
-		} catch (ParseException e) {
-			e.printStackTrace();
-		}
+		LocalDate ldf = LocalDate.parse(date,DateTimeFormatter.ofPattern("yyyy/MM/dd"));
+		
+	
+		
+		
+		
+		
 		System.out.println("enter the stream");
 		String stream = sc.nextLine();
 		sc.nextLine();
@@ -51,7 +61,7 @@ public class daoInterfaceImpl implements daoInterface {
 			skills.add(skillName);
 		}
 
-		map.put(new Student(id, name, newDate, stream, marks), skills);
+		map.put(new Student(id, name, ldf, stream, marks), skills);
 
 	}
 
@@ -77,30 +87,66 @@ public class daoInterfaceImpl implements daoInterface {
 
 	@Override
 	public void deleteSkillForStudent() {
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("enter the id whose skill you want to delete");
+		int id = sc.nextInt();
+		sc.nextLine();
 		// TODO Auto-generated method stub
+		System.out.println("enter the Skill to delete");
+		String deleteSkill = sc.nextLine();
 		Set<Student> s = map.keySet();
-		for (Student stud : s) {
-			List<String> listSet = map.get(stud);
-			for (String l : listSet) {
-				if (l.equalsIgnoreCase("1")) {
-//					map.get(stud).remove("1");
-					
-				}
+		for(Student student:s) {
+			if(student.getId() == id) {
+				Set<String> studentSkills = map.get(s);
+				studentSkills.remove(deleteSkill);
+				System.out.println("Deleted Successfully");
 			}
 		}
+		
 
 	}
 
 	@Override
 	public void deleteStudent() {
 		// TODO Auto-generated method stub
-
+		Scanner sc = new Scanner(System.in);
+		Set<Student> stud = map.keySet();
+		System.out.println("Enter the id of student that you want to delete");
+		int id = sc.nextInt();
+		for(Student s:stud) {
+			if(s.getId() == id) {
+				map.remove(s);
+				 System.out.println("Student deleted successfully.");
+				 return;
+			}
+		}
+		  System.out.println("Student not found with ID: " + id);
 	}
 
 	@Override
 	public void addNewSkillForStudnets() {
 		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the id of student that you want to delete");
+		int id = sc.nextInt();
+		System.out.println("Enter the skill you want to enter");
+		sc.nextLine();
+		String skill=sc.nextLine();
+		Set<Student> stud = map.keySet();
+		for(Student s:stud){
+			if(s.getId() == id) {
+			Set<String> studSkill = map.get(s);
+			studSkill.add(skill);
+			 System.out.println("New skill added successfully.");
+			
+			 return;
+			
+			
+		}
 
 	}
+	 System.out.println("Student not found with ID: " + id);
 
+	 
 }
