@@ -1,0 +1,296 @@
+
+In a triangle ABC, the lengths of the sides AB, AC and BC are 3, 5 and 6 cm respectively. If a point D on BC is drawn such that the line AD bisects the ∠A internally, then what is the length of BD?
+
+*
+···
+/1
+4
+ 
+Correct answer
+2.25 cm
+ 
+
+A man can row upstream at 25 kmph and downstream at 35 kmph, and then find the speed of the man in still water?
+
+*
+···
+/1
+30
+ 
+Correct answer
+30kmph
+ 
+Two circles of radii 10cm and 8 cm intersect and the length of the common chord is 12 cm. find of the common chord is 12 cm. Find the distance between their centers.
+
+*
+···
+/1
+12
+ 
+Correct answer
+13.29 cm
+ 
+.If ABCD be a cyclic quadrilateral in which ∠A = 4x° , ∠B = 7x° , ∠C = 5y° , ∠D = y° , then x : y is
+*
+···
+/1
+11:6
+ 
+Correct answer
+4 : 3
+ 
+The base area of a cylinder is 154 cm2 and height is 5 cm. Find the volume of a cylinder.
+
+*
+···
+/1
+770
+ 
+Correct answer
+770 cm2.
+ 
+How many numbers up to 500 are divisible by 23?
+*
+1/1
+21
+ 
+PRN
+*
+230945920024
+ 
+In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the probability that it is neither red nor green?
+
+*
+1/1
+1/3
+ 
+ 
+What is the area of a circle in terms of π, whose diameter is 16 cm?
+
+*
+···
+/1
+64
+ 
+Correct answer
+16 cm = 64π cm2.
+ 
+
+If A:B =7:5, B:C =9:11, Find A:B:C ?
+
+*
+···
+/1
+8:7:8
+ 
+Correct answer
+63:45:55
+ 
+The area of quadrilateral ABCD whose vertices in order are A(1, 1) B(7, -3), C(12, 2) and D(7, 21) is
+
+*
+···
+/1
+454
+ 
+Correct answer
+132 sq.units
+ 
+AB and CD are two parallel chords on the opposite sides of the center of the circle. If AB = 10 cm, CD = 24 cm and the radius of the circle is 13 cm, the distance between the chords is
+
+*
+···
+/1
+4
+ 
+Correct answer
+17 cm
+ 
+ABCD is a cyclic quadrilateral and AB is the diameter of the circle. If ∠CAB = 48 °, then what is the value (in degrees) of ∠ADC? 
+*
+···
+/1
+132
+ 
+Correct answer
+138°
+ 
+Equation of line passing through (1, 4) and perpendicular to y = 2x + 3 is? 
+*
+···
+/1
+4
+ 
+Correct answer
+2y + x = 9
+ 
+
+The length of a rectangle is 3 more inches than its breadth. The area of the rectangle is 40 in2. What is the perimeter of the rectangle?
+
+*
+···
+/1
+54
+ 
+Correct answer
+26 inches
+Name
+*
+Sanyog Mane
+ 
+
+A batsman in his 17Th innings makes a score of 85 and their by increasing his average by 3.what is his average after the 17Th  innings? Assume the batsman got out in every inning?
+
+*
+···
+/1
+34
+ 
+Correct answer
+37
+ 
+In a ∆ABC, incentre is O and ∠BOC = 110°, then the measure of ∠BAC is
+*
+···
+/1
+110
+ 
+Correct answer
+40°
+ 
+A trapezoid A, B, C, D, and E has bases of length 10 and 14 cm. If the height of the trapezoid above is 5 units, what is the length of the diagonal BC? 
+*
+···
+/1
+4
+ 
+Correct answer
+13
+ 
+Find the volume of a cone in terms π, whose radius is 3 cm and height is 4 cm.
+
+*
+···
+/1
+64pi
+ 
+Correct answer
+12π cm3.
+ 
+
+Walking 7/6 of his usual rate, a boy reaches his school 4 min early. Find his usual time to reach the school?
+
+*
+···
+/1
+9
+ 
+Correct answer
+28 min
+ 
+The line passing through (4,3) and (y,0) is parallel to the line passing through (-1,-2) and (3,0). Find y?
+
+*
+···
+/1
+45
+ 
+Correct answer
+-2
+ 
+
+If a-b = 3 and a2 + b2 = 29, Find the value of ab?
+
+*
+1/1
+10
+ 
+ 
+Nine men went to a hotel. Eight of them spent Rs. 3 each over their meals and the Ninth spent Rs.2 more than the average expenditure of all the nine. Determine the total money spent by them?
+
+*
+···
+/1
+59
+ 
+Correct answer
+Rs.29.25
+ 
+
+The duplicate ratio of 3:4 is?
+
+*
+···
+/1
+3:4
+ 
+Correct answer
+9:16
+ 
+The length of the chord of a circle is 8 cm and perpendicular distance between centre and the chord is 3 cm. Then the radius of the circle is equal to:
+
+*
+···
+/1
+15
+ 
+Correct answer
+5 cm
+ 
+If two or more points lie on the same line, they are called _____.
+*
+···
+/1
+45
+ 
+Correct answer
+collinear points.
+ 
+A work which could bee finished in 9 days was finished 3 days earlier after 10 more men joined. The number of men employed was?
+
+*
+···
+/1
+10
+ 
+Correct answer
+20
+ 
+
+Find the curved surface area of a hemisphere whose radius is 14 cm
+
+*
+···
+/1
+14pi
+ 
+Correct answer
+1232 cm2.
+ 
+ In the given figure D, E and F are mid points of AB, AC and BC respectively. P, Q and R are mid points of DE, DF and EF. Find ratio of area of triangle PQR to that of parallelogram ADFE.
+
+*
+···
+/1
+45:46
+ 
+Correct answer
+(1:8)
+ 
+In the given diagram O is the centre of the circle and CD is a tangent. ∠CAB and ∠ACD are supplementary to each other ∠OAC = 30°. Find the value of ∠OCB.
+*
+···
+/1
+120
+ 
+Correct answer
+30°
+ 
+A and B are the centres of two circles with radii 11 cm and 6 cm respectively. A common tangent touches these circles at O & D respectively. If AB = 13 cm, then the length of OD is ________.
+*
+···
+/1
+456
+ 
+Correct answer
+12 cm

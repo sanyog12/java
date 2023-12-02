@@ -1,0 +1,673 @@
+
+ 
+Which of the following symbols should replace the blanks in the given expression to make the expressions G < C and F ≥ H true?
+B > C = D > N _ G > F = I _ H
+
+*
+1/1
+≤
+≥
+ 
+=
+>
+ 
+If ‘football’ is called ‘cricket’, ‘cricket’ is called ‘basketball’, ‘basketball’ is called ‘badminton’ ‘badminton’ is called ‘volleyball’, ‘volleyball’ is called ‘hockey’ and ‘hockey’ is called ‘golf’, which of the following games is not played using a ball ?
+
+*
+1/1
+Volleyball
+ 
+Basketball
+Hockey
+Cricket
+ 
+In an election between two candidates, one got 55% of the total valid votes, 20% of the votes were invalid. If the total number of votes was 7500, the number of valid votes that the other candidate got, was :
+
+*
+1/1
+2500
+2700
+ 
+2900
+3100
+ 
+
+Find the odd man out?
+
+396, 462, 572, 427, 671, 264
+*
+1/1
+671
+462
+427
+ 
+264
+ 
+Which word does not belong to others
+*
+1/1
+Inch
+Kilogram
+ 
+Centimeter
+Yard
+ 
+Pointing to a photograph, a man said, "I have no brother, and that man's father is my father's son." Whose photograph was it?
+
+*
+0/1
+His son
+His own
+ 
+His father
+His nephew
+Correct answer
+His son
+ 
+
+Peter is in the East of Tom and Tom is in the North of John. Mike is in the South of John then in which direction of Peter is Mike?
+
+*
+1/1
+South-East
+South-West
+ 
+South
+North-East
+ 
+
+Two positions of dice are shown below. How many points will appear on the opposite to the face containing 5 points?
+
+*
+1/1
+Captionless Image
+3
+1
+2
+4
+ 
+ 
+From the four positions of a dice given below, find the color which is opposite to yellow ?
+
+*
+1/1
+Captionless Image
+Violet
+ 
+Red
+Rose
+Blue
+ 
+
+Which of the following diagrams indicates the best relation between Profit, Dividend and Bonus ?
+
+*
+0/1
+
+Option 1
+
+Option 2
+
+Option 3
+ 
+
+Option 4
+Correct answer
+Option 2
+ 
+
+Study the following information carefully and answer the questions given below:
+
+Six persons Prem, Qureshi, Ramit, Sreath, Tanmay and Uday are living with their wives Anita, Bini, Chandu, Divya, Eli and Fatima in a six story building from ground to top. Only one pair is living any of the floors, but not necessarily in the same order. Uday and his wife Divya are living in the floor which is between the floors of Fatima and Bini. Eli and her husband are living just above the floor of Bini and just below the floor of Anita. Chandu does not live in the floor above Divya. Qureshi and his wife neither live on the top floor not at the ground floor. Sreath and his wife Bini are living in the floor just below the floor of Prem. Tanmay and his wife is living at ground floor.
+
+Who is the wife of Qureshi?
+
+*
+0/1
+Anita
+Eli
+ 
+Chandu
+Fatima
+Correct answer
+Fatima
+ 
+
+. Find the number of triangles in the given figure.
+
+*
+0/1
+Captionless Image
+8
+10
+12
+ 
+14
+Correct answer
+14
+ 
+
+If REASON is coded as 5 and BELIEVED as 7, what is the code number for GOVERNMENT?
+
+*
+0/1
+6
+ 
+8
+9
+10
+Correct answer
+9
+ 
+Seeta walks 12 km towards the north. From there she walks 6 km towards the South. Then, she walks 8 km towards east. How far and in which direction is she with respect to his starting point?
+
+*
+1/1
+5 km, North East
+10 km, North East
+ 
+5 km, North
+5 km East
+ 
+A rat runs 20' towards East and turns to right, runs 10' and turns to right, runs 9' and again turns to left, runs 5' and then turns to left, runs 12' and finally turns to left and runs 6'. Now, which direction is the rat facing?
+
+*
+1/1
+East
+West
+North
+ 
+South
+ 
+On sports day in a school, 8 students took part in a race. They were all made to stand in a straight line. Sumit was standing 5th from the right end, and 3 students are standing in between Sumit and Ritesh. Based on this arrangement, what is the position of Ritesh from the left end of the line?
+*
+1/1
+6th
+2nd
+None of the above
+ 
+Cannot be determined
+ 
+15 students failed in a class of 52. After removing the names of failed students, a merit order list has been prepared in which the position of Ramesh is 22nd from the top. What is his position from the bottom?
+*
+0/1
+18th
+16th
+17th
+15th
+ 
+Correct answer
+16th
+ 
+In five flats, one above the other, live five professionals. The professor has to go up to meet his IAS officer friend. The doctor is equally friendly to all, and has to go up as frequently as go down. The engineer has to go up to meet his MLA friend above whose flat lives the professor's friend. From the ground floor to the top floor, in what order do the five professionals live?
+
+*
+1/1
+Engineer, Professor, Doctor, IAS officer, MLA
+Professor, Engineer, Doctor, IAS officer, MLA
+IAS officer, Engineer, Doctor, Professor, MLA
+Professor, Engineer, Doctor, MLA, IAS officer
+ 
+ 
+There are five hobby clubs in a college viz. photography, yachting, chess, electronics and gardening. The gardening group meets every second day, the electronics group meets every third day, the chess group meets every fourth day, the yachting group meets every fifth day and the photography group meets every sixth day. How many times do all the five groups meets on the same day within 180 days?
+
+*
+0/1
+5
+18
+10
+ 
+3
+Correct answer
+3
+ 
+5, 10, 23, 26, 37,50 (find the wrong term).
+*
+0/1
+23
+5
+37
+ 
+50
+Correct answer
+23
+ 
+Consider the following arrangement that has some missing letters:
+abab_b_bcb_dcdcded_d
+The missing letters which complete the arrangement are
+*
+0/1
+a, b, c, d
+a, b, d, e
+ 
+a, c, c, e
+b, c, d, e
+Correct answer
+a, c, c, e
+ 
+Consider the sequence given below: 4/12/95, 1/1/96, 29/1/96, 26/2/96, .... The next term of the series is
+*
+0/1
+24/3/96
+25/3/96
+ 
+26/3/96
+27/3/96
+Correct answer
+27/3/96
+ 
+A watch which gains uniformly, is 5 min slow at 7 o'clock in the morning on Sunday and it is 5 min 48 s fast at 7 pm on following Sunday. Which day was it correct?
+
+*
+0/1
+Friday
+Saturday
+ 
+Tuesday
+Wednesday
+Correct answer
+Wednesday
+ 
+
+Each face of a cube can be painted in black or white colours. In how many different ways can the cube be painted? 
+
+*
+0/1
+9
+10
+11
+ 
+12
+Correct answer
+10
+ 
+A cube has six numbers marked 1,2,3,4,5 and 6 on it’s faces. Three views of the cube are shown below:
+
+What possible number can exist on the two faces marked and respectively on the cube?
+
+*
+0/1
+2 and 3
+6 and 1
+1 and 4
+ 
+3 and 1
+Correct answer
+2 and 3
+ 
+Consider the following three statements:
+1. Only students can participate in the race.
+2. Some participants in the race are girls.
+3. All girl participants in the race are invited for coaching.
+Which one of the following conclusions can be drawn from the above statements?
+
+*
+1/1
+All participants in the race are invited for coaching.
+All students are invited for coaching.
+All participants in the race are students.
+ 
+None of the statements (a), (b) and (c) given above is correct.
+ 
+
+Statements: All the harmoniums are instruments. All the instruments are flutes.
+Conclusions:
+
+All the flutes are instruments.        
+
+All the harmoniums are flutes.
+
+*
+1/1
+Only (1) conclusion follows
+Only (2) conclusion follows
+ 
+Either (1) or (2) follows
+Neither (1) nor (2) follows
+ 
+The hall is 15 m long and 12 m broad. If the sum of the areas of the floor and the ceiling is equal to the sum of the areas of four walls, the volume of the hall is
+
+*
+1/1
+1100m3
+1500m3
+1200m3
+ 
+1005m3
+ 
+
+Find the weight of a pipe with the following dimensions – exterior diameter is 17 cm, interior diameter is 15 cm and length is 1000 cm. one cubic cm of iron is 0.9 grams.
+
+*
+1/1
+46.23kg
+45.23kg
+ 
+23.45kg
+23.46kg
+ 
+
+Cylinder’s radius is 12cm filled up to depth of 20cm. A spherical ball is dropped, level raised by 6.75. What’s the radius of the ball.
+
+*
+1/1
+9cm
+3cm
+ 
+12cm
+6cm
+ 
+A rectangular plot of lawn shown in the figure has dimensions 'x' and 'y' and is surrounded by a gravel pathway of width 2 m. What is the total area of the Gravel Pathway?
+
+*
+0/1
+2x + 2y + 4
+2x + 2y + 8
+ 
+4x + 4y + 8
+4x + 4y + 16
+Correct answer
+4x + 4y + 16
+ 
+The breadth of the rectangle is 8 cm and its diagonal is 17 cm. Find the area of the rectangle.
+*
+1/1
+150cm2
+120 cm2
+ 
+100 cm2
+200 cm2
+ 
+An error 2% in excess is made while measuring the side of a square. The percentage of error in the calculated area of the square is:
+*
+1/1
+3.96 %
+4.04%
+ 
+4%
+8%
+ 
+If the radius of a circle is decreased by 10%, then the total decrease in the area of the circle is.
+
+*
+0/1
+20%
+16%
+ 
+19%
+20.5%
+Correct answer
+19%
+ 
+In how many different ways can five friends sit for a photograph of five chairs in a row?
+*
+1/1
+120
+ 
+24
+240
+580
+ 
+How many three-digit numbers can be generated from 1, 2, 3, 4, 5, 6, 7, 8, 9, such that the digits are in ascending order?
+*
+0/1
+80
+81
+83
+ 
+84
+Correct answer
+84
+ 
+Groups each containing 3 boys are to be formed out of 5 boys A,B,C,D and E such that no one group contains both C and D together. What is the maximum number of such different groups?
+*
+0/1
+5
+6
+ 
+7
+8
+Correct answer
+7
+ 
+Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?
+*
+0/1
+1/2
+ 
+2/5
+8/15
+9/20
+Correct answer
+9/20
+ 
+A bag contains 20 balls. If there are red, 7 white, and 5 green balls, what is the minimum number of balls a person must pick from the bag to assured of one of each colour?
+
+*
+0/1
+17
+16
+13
+ 
+11
+Correct answer
+16
+ 
+A vessel is filled with liquid, 3 parts of which are water and 5 parts syrup. How much of the mixture must be drawn off and replaced with water so that the mixture may be half water and half syrup?
+*
+1/1
+1/6
+1/5
+ 
+2/5
+3/5
+ 
+A can contains a mixture of two liquids A and B is the ratio 7:5. When 9 litres of mixture are drawn off and the can is filled with B, the ratio of A and B becomes 7:9. How many litres of liquid A was contained by the can initially?
+*
+0/1
+10
+20
+ 
+21
+25
+Correct answer
+21
+ 
+In what ratio must a grocer mix two varieties of pulses costing Rs. 15 and Rs. 20 per kg respectively so as to get a mixture worth Rs. 16.50 kg
+*
+0/1
+3:7
+5:7
+7:3
+7:5
+ 
+Correct answer
+7:3
+ 
+There are 20000 people living in Defence Colony, Gurgaon. Out of them 9000 subscribe to Star TV Network and 12000 to Moon TV Network. If 4000 subscribe to both, how many do not subscribe to any of the two?
+*
+0/1
+3000
+2000
+4000
+ 
+1000
+Correct answer
+3000
+ 
+A class has 175 students. The following data shows the number of students obtaining one or more subjects. Mathematics 100, Physics 70, Chemistry 40; Mathematics and Physics 30, Mathematics and Chemistry 28, Physics and Chemistry 23; Mathematics, Physics and Chemistry 18. How many students have offered Mathematics alone
+*
+1/1
+35
+48
+60
+ 
+22
+ 
+In a battle 70% of the combatants lost one eye, 80% an ear, 75% an arm, 85% a leg, x% lost all the four limbs. The minimum value of x is
+*
+0/1
+10
+12
+15
+ 
+None of these
+Correct answer
+10
+ 
+The cost of two tables and three chairs is ₹705. If the table costs ₹40 more than the chair, find the cost of the table and the chair.
+*
+0/1
+125 & 165
+155 & 165
+ 
+150 & 180
+140 & 150
+Correct answer
+125 & 165
+ 
+In an examination consisting of 60 questions, three marks are given for every correct answer and one mark is deducted for every wrong answer. A student attempts all the questions and gets 120 marks.
+*
+1/1
+45
+ 
+42
+15
+18
+ 
+A two-digit number is such that the ten's digit exceeds twice the units digit by 2 and the number obtained by interchanging the digits is 5 more than 3 times the sum of the digits. Find the two-digit number.
+*
+1/1
+86
+83
+ 
+89
+80
+ 
+A boat running upstream takes 8 hours 48 minutes to cover a certain distance, while it takes 4 hours to cover the same distance running downstream. What is the ratio between the speed of the boat and speed of the water current respectively?
+
+*
+1/1
+2 : 1
+3 : 2
+8 : 3
+ 
+Cannot be determined
+ 
+Monu can row 12 km/h in still water. It takes him twice as long to row up as to row down the river. The rate of stream is
+*
+1/1
+8 km/h
+4 km/h
+ 
+6 km/h
+16 km/h
+ 
+Supriya can swim in still water at a speed of 10 kmph. If speed of the current would have been 5 kmph, then she could swim 60 km:
+*
+0/1
+Upstream in 4 hours
+Downstream in 12 hours
+Upstream in 6 hours
+ 
+Downstream in 4 hours
+Correct answer
+Downstream in 12 hours
+ 
+A man in a car can count 25 telephone posts in 1min. If they are known to be 40m apart, then at what speed is the car travelling?
+*
+0/1
+52.4 km/h
+57.6 km/h
+48.2 km/h
+ 
+44.9 km/h
+Correct answer
+57.6 km/h
+ 
+Two cities A and B 360km apart. A car goes from A to B @40km/h and B to A @ 60k/h. Find average speed.
+*
+0/1
+45 km/hr
+48 km/hr
+50 km/hr
+ 
+55 km/hr
+Correct answer
+48 km/hr
+ 
+A bus is moving 30km/h ahead of a car moving at 50 km/h. How many km apart are they if it takes 15 min for the car to catch the bus?
+*
+0/1
+5 km
+7.5 km
+12.5 km
+ 
+45 km
+Correct answer
+5 km
+ 
+A can do work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is:
+*
+0/1
+1/4
+1/10
+7/15
+ 
+8/15
+Correct answer
+8/15
+ 
+A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?
+*
+1/1
+Rs. 400
+ 
+Rs. 800
+Rs. 1600
+None of these
+ 
+Mr. Ram has a sum of money, which is sufficient to pay Usha's wages for 30 days and Manika's wages for 60 days. If he employs them together, the money is sufficient to pay their wages for how many days?
+*
+0/1
+12 Days
+10 Days
+30 Days
+ 
+20 Days
+Correct answer
+20 Days
+ 
+Rs. 5783 is divided among Aman, Balan, and Chintan in such a way that if Rs. 28, Rs. 37 and Rs. 18 are deducted from their respective shares, they have money in the ratio 4:6:9. Find Aman’s share.
+*
+0/1
+1228
+1245.5
+1328
+ 
+1356
+Correct answer
+1245.5
+ 
+Rs. 3650 is divided among 4 engineers, 3 MBAs and 5 CAs such that 3 CAs get as much as 2 MBAs and 3 Engineers as much as 2 CAs. Find the share of an MBA.
+
+*
+0/1
+300
+450
+475
+ 
+None of these
+Correct answer
+450
+ 
+The ratio of water and milk in a 30-litre mixture is 7: 3. Find the quantity of water to be added to the mixture in order to make this ratio 6:1
+*
+0/1
+30
+ 
+32
+33
+35
+Correct answer
+33
