@@ -1,296 +1,352 @@
+ 
+A man purchased a cow for Rs. 3000 and sold it the same day for Rs. 3600, allowing the buyer a credit of 2 years. If the rate of interest be 10% per annum, then the man has a gain of:
 
-In a triangle ABC, the lengths of the sides AB, AC and BC are 3, 5 and 6 cm respectively. If a point D on BC is drawn such that the line AD bisects the ∠A internally, then what is the length of BD?
-
-*
-···
-/1
-4
- 
-Correct answer
-2.25 cm
- 
-
-A man can row upstream at 25 kmph and downstream at 35 kmph, and then find the speed of the man in still water?
-
-*
-···
-/1
-30
- 
-Correct answer
-30kmph
- 
-Two circles of radii 10cm and 8 cm intersect and the length of the common chord is 12 cm. find of the common chord is 12 cm. Find the distance between their centers.
-
-*
-···
-/1
-12
- 
-Correct answer
-13.29 cm
- 
-.If ABCD be a cyclic quadrilateral in which ∠A = 4x° , ∠B = 7x° , ∠C = 5y° , ∠D = y° , then x : y is
-*
-···
-/1
-11:6
- 
-Correct answer
-4 : 3
- 
-The base area of a cylinder is 154 cm2 and height is 5 cm. Find the volume of a cylinder.
-
-*
-···
-/1
-770
- 
-Correct answer
-770 cm2.
- 
-How many numbers up to 500 are divisible by 23?
 *
 1/1
-21
+0%
  
+5%
+7.5%
+10%
+ 
+The true discount on Rs. 1760 due after a certain time at 12% per annum is Rs. 160. The time after which it is due is:
+
+*
+0/1
+6 months
+8 months
+ 
+9 months
+10 months
+Correct answer
+10 months
+ 
+A 12% stock yielding 10% is quoted at:
+
+*
+0/1
+83.33
+110
+ 
+112
+120
+Correct answer
+120
 PRN
 *
-230945920024
+230945920083
  
-In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the probability that it is neither red nor green?
+Find the odd man out.
+
+3, 5, 11, 14, 17, 21
+
+*
+0/1
+21
+17
+ 
+14
+3
+Correct answer
+14
+ 
+Which one of the following is not a prime number?
 
 *
 1/1
-1/3
+31
+61
+71
+91
  
  
-What is the area of a circle in terms of π, whose diameter is 16 cm?
+A man invests some money partly in 9% stock at 96 and partly in 12% stock at 120. To obtain equal dividends from both, he must invest the money in the ratio:
 
 *
-···
-/1
-64
+0/1
+3 : 4
+3 : 5
  
+4 : 5
+16 : 15
 Correct answer
-16 cm = 64π cm2.
+16 : 15
  
-
-If A:B =7:5, B:C =9:11, Find A:B:C ?
-
+In a game of 100 points, A can give B 20 points and C 28 points. Then, B can give C:
 *
-···
-/1
-8:7:8
+0/1
+8 points
+10 points
+14 points
  
+40 points
 Correct answer
-63:45:55
+10 points
  
-The area of quadrilateral ABCD whose vertices in order are A(1, 1) B(7, -3), C(12, 2) and D(7, 21) is
+How many of the following numbers are divisible by 132 ?
+264, 396, 462, 792, 968, 2178, 5184, 6336
 
 *
-···
-/1
-454
+0/1
+4
+5
+6
  
+7
 Correct answer
-132 sq.units
- 
-AB and CD are two parallel chords on the opposite sides of the center of the circle. If AB = 10 cm, CD = 24 cm and the radius of the circle is 13 cm, the distance between the chords is
-
-*
-···
-/1
 4
  
-Correct answer
-17 cm
- 
-ABCD is a cyclic quadrilateral and AB is the diameter of the circle. If ∠CAB = 48 °, then what is the value (in degrees) of ∠ADC? 
-*
-···
-/1
-132
- 
-Correct answer
-138°
- 
-Equation of line passing through (1, 4) and perpendicular to y = 2x + 3 is? 
-*
-···
-/1
-4
- 
-Correct answer
-2y + x = 9
- 
-
-The length of a rectangle is 3 more inches than its breadth. The area of the rectangle is 40 in2. What is the perimeter of the rectangle?
+A man buys Rs. 20 shares paying 9% dividend. The man wants to have an interest of 12% on his money. The market value of each share is:
 
 *
-···
-/1
-54
+1/1
+Rs. 12
+Rs. 15
  
+Rs. 18
+Rs. 21
+ 
+Find the odd man out.
+
+41, 43, 47, 53, 61, 71, 73, 81
+
+*
+0/1
+61
+71
+ 
+73
+81
 Correct answer
-26 inches
-Name
+81
+ 
+From a point P on a level ground, the angle of elevation of the top tower is 30°. If the tower is 100 m high, the distance of point P from the foot of the tower is:
+
+*
+0/1
+149 m
+ 
+156 m
+173 m
+200 m
+Correct answer
+173 m
+name
+
 *
 Sanyog Mane
  
-
-A batsman in his 17Th innings makes a score of 85 and their by increasing his average by 3.what is his average after the 17Th  innings? Assume the batsman got out in every inning?
-
-*
-···
-/1
-34
- 
-Correct answer
-37
- 
-In a ∆ABC, incentre is O and ∠BOC = 110°, then the measure of ∠BAC is
-*
-···
-/1
-110
- 
-Correct answer
-40°
- 
-A trapezoid A, B, C, D, and E has bases of length 10 and 14 cm. If the height of the trapezoid above is 5 units, what is the length of the diagonal BC? 
-*
-···
-/1
-4
- 
-Correct answer
-13
- 
-Find the volume of a cone in terms π, whose radius is 3 cm and height is 4 cm.
+Which of the following statements is not correct?
 
 *
-···
-/1
-64pi
+0/1
+log10 10 = 1
+log (2 + 3) = log (2 x 3)
+log10 1 = 0
  
+log (1 + 2 + 3) = log 1 + log 2 + log 3
 Correct answer
-12π cm3.
+log (2 + 3) = log (2 x 3)
  
-
-Walking 7/6 of his usual rate, a boy reaches his school 4 min early. Find his usual time to reach the school?
+In a 100 m race, A can beat B by 25 m and B can beat C by 4 m. In the same race, A can beat C by:
 
 *
-···
-/1
-9
+0/1
+21 m
+26 m
  
+28 m
+29 m
 Correct answer
-28 min
+28 m
  
-The line passing through (4,3) and (y,0) is parallel to the line passing through (-1,-2) and (3,0). Find y?
-
+How many times in a day, are the hands of a clock in straight line but opposite in direction?
 *
-···
-/1
-45
+0/1
+20
+22
+24
  
+48
 Correct answer
--2
+22
  
-
-If a-b = 3 and a2 + b2 = 29, Find the value of ab?
+In a 500 m race, the ratio of the speeds of two contestants A and B is 3 : 4. A has a start of 140 m. Then, A wins by:
 
 *
 1/1
+60 m
+40 m
+20 m
+ 
+10 m
+ 
+The sum of first five prime numbers is:
+
+*
+1/1
+11
+18
+26
+28
+ 
+ 
+(935421 x 625) = ?
+
+*
+0/1
+575648125
+ 
+584638125
+584649125
+585628125
+Correct answer
+584638125
+ 
+What least number must be added to 1056, so that the sum is completely divisible by 23 ?
+
+*
+0/1
+2
+3
+18
+21
+ 
+Correct answer
+2
+ 
+The H.C.F. of two numbers is 23 and the other two factors of their L.C.M. are 13 and 14. The larger of the two numbers is:
+
+*
+0/1
+276
+299
+ 
+322
+345
+Correct answer
+322
+ 
+Six bells commence tolling together and toll at intervals of 2, 4, 6, 8 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together ?
+
+*
+0/1
+4
 10
- 
- 
-Nine men went to a hotel. Eight of them spent Rs. 3 each over their meals and the Ninth spent Rs.2 more than the average expenditure of all the nine. Determine the total money spent by them?
-
-*
-···
-/1
-59
- 
-Correct answer
-Rs.29.25
- 
-
-The duplicate ratio of 3:4 is?
-
-*
-···
-/1
-3:4
- 
-Correct answer
-9:16
- 
-The length of the chord of a circle is 8 cm and perpendicular distance between centre and the chord is 3 cm. Then the radius of the circle is equal to:
-
-*
-···
-/1
 15
  
+16
 Correct answer
-5 cm
+16
  
-If two or more points lie on the same line, they are called _____.
+If 7 spiders make 7 webs in 7 days, then 1 spider will make 1 web in how many days?
 *
-···
-/1
-45
+1/1
+1
+7/2
+7
  
-Correct answer
-collinear points.
+49
  
-A work which could bee finished in 9 days was finished 3 days earlier after 10 more men joined. The number of men employed was?
+An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?
 
 *
-···
-/1
-10
+0/1
+144°
+150°
  
+168°
+180°
 Correct answer
-20
+180°
  
-
-Find the curved surface area of a hemisphere whose radius is 14 cm
+If log 27 = 1.431, then the value of log 9 is:
+*
+0/1
+0.934
+0.945
+ 
+0.954
+0.958
+Correct answer
+0.954
+ 
+Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.
 
 *
-···
-/1
-14pi
+1/1
+4
  
-Correct answer
-1232 cm2.
+7
+9
+13
  
- In the given figure D, E and F are mid points of AB, AC and BC respectively. P, Q and R are mid points of DE, DF and EF. Find ratio of area of triangle PQR to that of parallelogram ADFE.
+If a quarter kg of potato costs 60 paise, how many paise will 200 gm cost?
 
 *
-···
-/1
-45:46
+1/1
+48 paise
  
-Correct answer
-(1:8)
+54 paise
+56 paise
+72 paise
  
-In the given diagram O is the centre of the circle and CD is a tangent. ∠CAB and ∠ACD are supplementary to each other ∠OAC = 30°. Find the value of ∠OCB.
+Find the odd man out.
+
+835, 734, 642, 751, 853, 981, 532
+
 *
-···
-/1
+0/1
+751
+853
+ 
+981
+532
+Correct answer
+751
+ 
+Find the odd man out.
+
+396, 462, 572, 427, 671, 264
+
+*
+1/1
+396
+427
+ 
+671
+264
+ 
+The product of two numbers is 2028 and their H.C.F. is 13. The number of such pairs is:
+
+*
+0/1
+1
+ 
+2
+3
+4
+Correct answer
+2
+ 
+The angle between the minute hand and the hour hand of a clock when the time is 4.20, is:
+
+*
+1/1
+0°
+10°
+ 
+5°
+20°
+ 
+Three number are in the ratio of 3 : 4 : 5 and their L.C.M. is 2400. Their H.C.F. is:
+
+*
+0/1
+40
+80
+ 
 120
- 
+200
 Correct answer
-30°
- 
-A and B are the centres of two circles with radii 11 cm and 6 cm respectively. A common tangent touches these circles at O & D respectively. If AB = 13 cm, then the length of OD is ________.
-*
-···
-/1
-456
- 
-Correct answer
-12 cm
+40
